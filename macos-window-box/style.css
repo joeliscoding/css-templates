@@ -1,0 +1,16 @@
+.blckr-macos-window-box {
+    display: inline-block;
+    max-width: 100%;
+    padding: 15px 20px 15px 15px;
+    border: solid 2px #dedede;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+.blckr-macos-window-box h1 {
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.blckr-macos-window-box a {
+    text-decoration: none;
+}
