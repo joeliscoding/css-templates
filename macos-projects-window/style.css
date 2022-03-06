@@ -1,0 +1,35 @@
+.blckr-macos-projects-window {
+    display: inline-block;
+    padding: 15px 20px 45px 15px;
+    border: solid 2px #dedede;
+    border-radius: 5px;
+}
+.blckr-macos-projects-window h5 {
+    display: inline-block;
+    margin: 0;
+    font-weight: 500;
+    font-size: 17px;
+}
+.blckr-macos-projects-window img {
+    width: 75px;
+    padding: 1px;
+    border: solid 1px #dedede;
+    box-shadow: 0 2px 3px 1px rgba(212, 212, 212, .6);
+    display: grid;
+}
+.blckr-macos-projects-window-arrows {
+    max-width: 50px;
+    margin: 0 15px;
+}
+.blckr-macos-projects-window-file-list {
+    margin-top: 25px;
+}
+.blckr-macos-projects-window-file {
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}
+.blckr-macos-projects-window-file p {
+    margin-top: 15px;
+    font-size: 13px;
+}

@@ -1,16 +1,18 @@
-.blckr-macos-window-box {
+.blckr-macos-message-window {
     display: inline-block;
-    max-width: 100%;
     padding: 15px 20px 15px 15px;
     border: solid 2px #dedede;
     border-radius: 5px;
-    font-family: sans-serif;
 }
-.blckr-macos-window-box h1 {
+.blckr-macos-message-window h1 {
     font-weight: 500;
     font-size: 25px;
-    margin-top: 20px;
+    margin: 15px 0;
 }
-.blckr-macos-window-box a {
+.blckr-macos-message-window p {
+    margin: 15px 0;
+}
+.blckr-macos-message-window a {
     text-decoration: none;
+    margin: 15px 0;
 }

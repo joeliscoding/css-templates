@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blocker {
+    max-width: 100%;
+    font-family: sans-serif;
+}
